@@ -1,5 +1,3 @@
-const sum = require('./sum');
-
 describe('addition', () => {
   describe('positive numbers', () => {
     it('should add up', () => {

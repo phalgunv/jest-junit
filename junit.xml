@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="2" failures="0" errors="0" time="0.297">
-  <testsuite name="addition" errors="0" failures="0" skipped="0" timestamp="2023-03-07T18:51:35" time="0.134" tests="2">
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="0.357">
+  <testsuite name="addition" errors="0" failures="0" skipped="0" timestamp="2023-03-07T19:31:04" time="0.262" tests="2">
     <testcase classname="addition positive numbers should add up" name="addition positive numbers should add up" time="0.002">
     </testcase>
-    <testcase classname="subraction positive numbers should subtract" name="subraction positive numbers should subtract" time="0.001">
+    <testcase classname="subtraction positive numbers should subtract" name="subtraction positive numbers should subtract" time="0">
     </testcase>
   </testsuite>
 </testsuites>
