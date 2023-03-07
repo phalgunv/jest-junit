@@ -8,7 +8,7 @@ describe('addition', () => {
   });
 });
 
-describe('subraction', () => {
+describe('subtraction', () => {
   describe('positive numbers', () => {
     it('should subtract', () => {
       expect(2 - 1).toBe(1);
